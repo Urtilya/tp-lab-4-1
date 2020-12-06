@@ -1,6 +1,6 @@
 // Copyright 2020 Team
 #include "gtest/gtest.h"
-#include "automata.h"
+#include "Automata.h"
 
 
 TEST(automata, test1) {

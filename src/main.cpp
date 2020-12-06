@@ -1,5 +1,5 @@
 // Copyright 2020 Team
-#include "automata.h"
+#include "Automata.h"
 #include <iostream>
 
 
