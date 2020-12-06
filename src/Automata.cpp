@@ -13,7 +13,7 @@ Automata::Automata ()
   state = OFF;
   chos = -1;
   count = 3;
-  char** ret = {"COFFE", "TEA", "CACAO"};
+  char** ret[3] = {"COFFE", "TEA", "CACAO"};
   menu = ret;
   prices = new double[3]{29.99, 19.99, 49.99};
 }
